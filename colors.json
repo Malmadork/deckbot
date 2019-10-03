@@ -1,0 +1,24 @@
+{
+  "red": "FF0000",
+  "gold": "#FFD700",
+  "violet": "#EE82EE",
+  "blueviolet": "#8A2BE2",
+  "purple": "#800080",
+  "slateblue": "#6A5ACD",
+  "lime": "#00FF00",
+  "green": "#008000",
+  "cyan": "#00FFFF",
+  "blue": "#0000FF",
+  "sandybrown": "#F4A460",
+  "goldenrod": "#DAA520",
+  "maroon": "#800000",
+  
+  "silver": "#C0C0C0",
+  "gray": "#808080",
+  "grey": "#808080",
+  "slategray": "#708090",
+  
+  "white": "ffffff",
+  "black": "000000"
+  
+}
